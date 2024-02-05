@@ -1,1 +1,1 @@
-# redux-counter
+#REACT-REDUX: counter
